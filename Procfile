@@ -1,1 +1,1 @@
-web: gunicorn spojml/spojml.wsgi --log-file -
+web: gunicorn spojml.wsgi --log-file -
